@@ -125,7 +125,7 @@ button:focus { outline: none; }
 	color: #9AC9F7;
 }
 
-.tm-main-content { padding: 35px 30px; }
+.tm-main-content { padding: 35px 30px 30px auto; }
 
 .tm-main-title { 
 	color: #6C6C6C;
